@@ -1,0 +1,3 @@
+matlabengineforpython===R2019b
+opencv-contrib-python==4.2.0.32
+opencv-python==4.2.0.32
